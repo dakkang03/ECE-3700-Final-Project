@@ -18,7 +18,7 @@ Modules: `clk_div` (1 Hz divider), `Bcd_test` (00–59 BCD counter), `seg7` (7-s
 ---
 
 ## Architecture
-
+![BCD Counter Diagram](figure/Slide1.JPG)
 ## Usage
 en=1 → count from 00 to 59 at 1 Hz  
 rst=1 → reset to 00 immediately  
